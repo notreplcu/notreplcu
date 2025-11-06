@@ -1,5 +1,5 @@
 <h2 align="center">hi, ig</h2>
-<p align="center">i'm 17 years old (close enough), and i am not a professional at coding (or in general).
+<p align="center">i'm 17 years old, and i am not a professional at coding (or in general).
 <br>
 other than that, i play rhythm games, and i am from saipan.</p>
 
